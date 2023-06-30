@@ -1,16 +1,15 @@
-# dogs_cat_classifier_app
+Cat and Dog Image Classifier
 
-A new Flutter project.
+This project is a machine learning-based image classifier that can differentiate between images of cats and dogs. It uses a deep learning model trained on a diverse dataset of cat and dog images to make accurate predictions.
 
-## Getting Started
+Features:
+- Image Classification: Given an input image, the classifier can accurately predict whether it contains a cat or a dog.
+- High Accuracy: The model has been trained on a large and diverse dataset, resulting in a high accuracy rate for classifying cat and dog images.
+- Easy Integration: The classifier can be easily integrated into other applications or systems to provide cat and dog image classification capabilities.
+- TensorFlow Implementation: The project utilizes the TensorFlow framework, a popular open-source library for machine learning, to train and deploy the image classifier model.
 
-This project is a starting point for a Flutter application.
+Usage:
+1. Clone the repository and set up the required dependencies.
+2. Provide input images of cats or dogs to the classifier.
+3. The classifier will process the images and provide predictions indicating whether each image contains a cat or a dog.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
